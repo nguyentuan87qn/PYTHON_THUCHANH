@@ -1,2 +1,7 @@
 PHÍM TẮT:
+Ctrl + , : Mở setting
+Ctrl + P : Mở dòng lệnh
+Alt + mũi tên: Di chuyển câu lệnh lên trên hoặc xuống dưới 
+
+
 
